@@ -1,3 +1,37 @@
+## What is this project?
+This is the AI chat bot for the First Robotics team 2191 Fluxcore!
+
+### Who is making this?
+This chat bot is made by PhillsPhanbh3 one of the students on the team, the bumper and battery changer of the robot during the season!
+
+## When will this be used?
+This will be used for when we are in the on season at our competitions for the FRC Mid-Atlantic district events!
+
+### What info will be put into the chat bot for scouters and judges?
+1. Our robot weight
+2. Driving type
+3. Extra info depending on what is put into the chat bot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
