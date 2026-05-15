@@ -76,7 +76,23 @@ export default function Footer() {
                 >
                   About Us
                 </Link>
-                </li>
+              </li>
+              <li>
+                <Link
+                  href="/redirects/support"
+                  className="text-gray-400 hover:text-[var(--color-accent)] transition"
+                >
+                  Support
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/redirects/status"
+                  className="text-gray-400 hover:text-[var(--color-accent)] transition"
+                >
+                  Status Page
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -88,7 +104,7 @@ export default function Footer() {
                   href="/legal/tos"
                   className="text-gray-400 hover:text-[var(--color-accent)] transition"
                 >
-                  Terms of Service
+                  Terms of Service (being worked on)
                 </Link>
                 </li>
             </ul>

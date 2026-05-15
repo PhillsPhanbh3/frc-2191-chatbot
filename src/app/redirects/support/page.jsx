@@ -67,7 +67,7 @@ export default function NotFound() {
                 repeatType: 'reverse',
               }}
             >
-              Support Server Invite
+              Support Chat
             </motion.div>
 
             <motion.div
