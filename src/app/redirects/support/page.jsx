@@ -117,7 +117,7 @@ export default function NotFound() {
             transition={{ delay: 0.4, duration: 0.5 }}
           >
             <Link
-              href={window.location.href}
+              href="https://bkohut131.freshdesk.com/support/home"
               className="inline-flex items-center px-6 py-3 rounded-lg bg-[var(--color-primary)] text-white font-medium hover:bg-opacity-90 transition-all duration-300"
             >
               Visit Support Page
