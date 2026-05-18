@@ -38,8 +38,8 @@ export default function Footer() {
           variants={itemVariants}
         >
           <div>
-            <h3 className="text-xl font-bold mb-4 text-[var(--color-Java)]">
-              FluxCore<span className="text-[var(--color-Lava)]"> 2191</span>
+            <h3 className="text-xl font-bold mb-4 text-[var(--color-fluxcore)]">
+              FluxCore<span className="text-[var(--color-2191)]"> 2191</span>
             </h3>
             <p className="mb-4 text-sm">
               FluxCore 2191's chatbot is the official chatbot for our team, designed to help scouters and judges get more information quickly.

@@ -27,7 +27,7 @@ export default function Header() {
               href="/"
               className="flex items-center gap-2 text-2xl font-bold"
             >
-              <span className="text-gradient bg-gradient-to-r from-[var(--color-Java)] to-[var(--color-Lava)]">
+              <span className="text-gradient bg-gradient-to-r from-[var(--color-fluxcore)] to-[var(--color-2191)]">
                 FluxCore 2191 - FRC Chatbot
               </span>
             </Link>
