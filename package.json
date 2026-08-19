@@ -11,16 +11,16 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "framer-motion": "^12.42.2",
-    "next": "^16.2.10",
-    "react": "^19.2.7",
+    "next": "^16.3.1",
+    "react": "^19.2.8",
     "react-dom": "^19.2.7"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.3.2",
+    "@tailwindcss/postcss": "^4.3.3",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^10.6.0",
-    "eslint-config-next": "^16.2.10",
-    "tailwindcss": "^4.3.3"
+    "eslint-config-next": "^16.2.11",
+    "tailwindcss": "^4.3.3",
   },
   "allowScripts": {
     "sharp@0.34.5": true,
